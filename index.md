@@ -10,6 +10,7 @@ This is a project for the beginners to get started with open source contribution
 
 [Click to Jump directly on how to contribute to this project](#How-to-contribute-to-this-project)
 
+
 # What is hacktoberfest
 
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, a student learning to code, an event host, or a company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
