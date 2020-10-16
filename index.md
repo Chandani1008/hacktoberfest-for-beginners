@@ -46,6 +46,7 @@ Once you start feeling more comfortable, you can find more open source projects 
 
 - [This is another great guide](https://opensource.guide/how-to-contribute/) outlining ways you can contribute to open source.
 
+
 ## Event details
 
 - Hacktoberfest is open to everyone in our global community!
